@@ -1,9 +1,9 @@
 {
-    "description": "egg-eureka",
+    "description": "egg-eureka-http",
     "license": "MIT",
     "main": "index.js",
-    "name": "egg-eureka",
-    "version": "1.0.2",
+    "name": "egg-eureka-http",
+    "version": "1.0.3",
     "homepage": "https://github.com/remoting/egg-eureka",
     "eggPlugin": {
         "name": "eureka"
