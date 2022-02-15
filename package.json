@@ -10,5 +10,7 @@
     },
     "dependencies": {
         "eureka-js-client": "^4.5.0"
-    }
+    },
+    "devDependencies": {},
+    "scripts": {}
 }
