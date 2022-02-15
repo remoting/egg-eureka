@@ -9,6 +9,8 @@
         "name": "eureka"
     },
     "dependencies": {
+        "request": "^2.88.2",
+        "url": "^0.11.0",
         "eureka-js-client": "^4.5.0"
     },
     "devDependencies": {},
