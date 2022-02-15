@@ -1,0 +1,14 @@
+{
+    "description": "egg-eureka",
+    "license": "MIT",
+    "main": "index.js",
+    "name": "egg-eureka",
+    "version": "1.0.2",
+    "homepage": "https://github.com/remoting/egg-eureka",
+    "eggPlugin": {
+        "name": "mysql"
+    },
+    "dependencies": {
+        "eureka-js-client": "^4.5.0"
+    }
+}
